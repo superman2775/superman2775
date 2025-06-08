@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Spotify API project](https://github.com/superman2775/spotify-smpp)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **how to code**
 
 - 👯 I’m looking to collaborate on [all my projects](https://github.com/superman2775)
 
